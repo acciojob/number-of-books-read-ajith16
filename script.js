@@ -25,9 +25,6 @@ const numberOfBooksRead = ()=>{
     })
     return count;
 };
-	
-
-};
 
 // Do not change the code below
 
